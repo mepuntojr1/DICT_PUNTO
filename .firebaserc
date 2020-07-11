@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dict-punto": {
+      "hosting": {
+        "DICT": [
+          "dict-punto"
+        ]
+      }
+    }
+  }
+}
